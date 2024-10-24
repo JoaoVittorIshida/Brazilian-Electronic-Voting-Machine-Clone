@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62614C07-7383-4EFE-BB5C-C2BB8F613477}|Urna eletronica\\Urna eletronica.csproj|C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\urna eletronica\\urna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62614C07-7383-4EFE-BB5C-C2BB8F613477}|Urna eletronica\\Urna eletronica.csproj|solutionrelative:urna eletronica\\urna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62614C07-7383-4EFE-BB5C-C2BB8F613477}|Urna eletronica\\Urna eletronica.csproj|c:\\users\\joaov\\onedrive\\estudos\\faculdade\\4 semestre\\lp1\\urna eletr\u00F4nica github\\urna eletronica\\urna eletronica\\urna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62614C07-7383-4EFE-BB5C-C2BB8F613477}|Urna eletronica\\Urna eletronica.csproj|solutionrelative:urna eletronica\\urna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urna.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\Urna eletronica\\Urna.cs",
+              "RelativeDocumentMoniker": "Urna eletronica\\Urna.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\Urna eletronica\\Urna.cs [Projeto]",
+              "RelativeToolTip": "Urna eletronica\\Urna.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:10:48.568Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urna.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\Urna eletronica\\Urna.cs",
+              "RelativeDocumentMoniker": "Urna eletronica\\Urna.cs",
+              "ToolTip": "C:\\Users\\joaov\\OneDrive\\Estudos\\Faculdade\\4 Semestre\\LP1\\Urna eletr\u00F4nica github\\Urna eletronica\\Urna eletronica\\Urna.cs",
+              "RelativeToolTip": "Urna eletronica\\Urna.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwCUBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:22:26.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

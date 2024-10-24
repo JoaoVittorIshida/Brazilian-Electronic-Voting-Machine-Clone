@@ -1,0 +1,34 @@
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.exe
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.deps.json
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.runtimeconfig.json
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.pdb
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna_eletronica.Urna.resources
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\refint\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.pdb
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\ref\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna_eletronica.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.exe
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.deps.json
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.runtimeconfig.json
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\bin\Debug\net8.0-windows\Urna eletronica.pdb
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna_eletronica.Properties.Resources.resources
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna_eletronica.Urna.resources
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.AssemblyInfoInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.AssemblyInfo.cs
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\refint\Urna eletronica.dll
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.pdb
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\Urna eletronica.genruntimeconfig.cache
+C:\Users\joaov\OneDrive\Estudos\Faculdade\4 Semestre\LP1\Urna eletrônica github\Urna eletronica\Urna eletronica\obj\Debug\net8.0-windows\ref\Urna eletronica.dll
